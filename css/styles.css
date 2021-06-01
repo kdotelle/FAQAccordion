@@ -12,3 +12,15 @@ body {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+
+.container {
+  background-color: #fff;
+  border-radius: 15px;
+  display: inline-flex;
+  flex-flow: column wrap;
+  justify-content: center;
+}
+
+.info {
+  align-self: auto;
+}
