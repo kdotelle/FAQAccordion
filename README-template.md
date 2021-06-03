@@ -51,6 +51,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 -Next I think about the final project and how to break down the styling. The background of the body is a purple gradient, so I'll need to lookup how to make the gradient with CSS.
 -From the photo the FAQ is in a white container with curved edges, so I want to create a class to hold that.
 -For the accordion, I'll use buttons with an accordion class. I'll need to add some JS that will tell the component to expand with an onclick event listener.
+-I ended up using Bootstrap for the accordion utilizing the card component. I'd used Bootstrap for the class components before and I don't believe in reinventing the wheel.
 
 ### Built with
 
