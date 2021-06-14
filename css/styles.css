@@ -37,3 +37,19 @@ body {
 div {
   flex: 1;
 }
+
+.btn {
+  background-color: #fff;
+  margin: 0px;
+}
+
+.card-header {
+  background-color: #fff;
+  border: 0px;
+  border-bottom: 1px;
+}
+
+.card {
+  border: none;
+  border-bottom: 1px solid hsl(240, 5%, 91%);
+}
